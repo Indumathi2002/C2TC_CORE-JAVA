@@ -1,11 +1,11 @@
-package org.tns.oopsconcept;
+package java.collections;
 
 import java.util.*;
 
-public class Linkedlistnew {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class linkedlistsam 
+{
+	public static void main(String[] args)
+	{
 		LinkedList <String>list=new LinkedList<String>();
 		list.add("Lion");
 		list.add("Tiger");
@@ -18,7 +18,5 @@ public class Linkedlistnew {
 		System.out.println(" new Animal name are"+list);
 		list.remove(3);
 		System.out.println("Animal are updated"+list);
-
-	}
-
+		}
 }

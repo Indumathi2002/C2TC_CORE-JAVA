@@ -10,7 +10,7 @@ public class Linkedlist {
 		list.add("Kangaro");
 		list.add("Cheetha");
 		list.add("Kingkong");
-		System.out.println(list);
+		System.out.println("Animal are"+list);
 		
 		
 		
